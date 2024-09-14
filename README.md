@@ -16,3 +16,6 @@ With a focus on simplicity and accessibility, NyxOS provides a fluid and efficie
 Download the ISO by [clicking here](https://drive.google.com/file/d/1HhRdrg-yx8zIJzZ8BedD1mlufVi7Ohk_/view?usp=sharing)
 
 [MD5 ISO](https://github.com/nyxOSai/NyxOS/blob/main/nyxos_0.0.1-0.0.1-2024.09.14.md5)
+
+# Screen
+
