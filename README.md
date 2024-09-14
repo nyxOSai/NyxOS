@@ -19,3 +19,4 @@ Download the ISO by [clicking here](https://drive.google.com/file/d/1HhRdrg-yx8z
 
 # Screen
 
+![Descrição da imagem](screen/Captura%20de%20tela%20de%202024-09-14%2002-23-20.png)
