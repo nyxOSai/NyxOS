@@ -19,5 +19,7 @@ Download the ISO by [clicking here](https://drive.google.com/file/d/1oHh6Zxs8yeD
 
 # Screen
 
-![main](screen/Captura%20de%20tela%20de%202024-09-14%2002-23-20.png)
-![menu](screen/Captura%20de%20tela%20de%202024-09-14%2002-23-41.png)
+![main](screen/Screenshot%202024-09-15%2003-01-29.png)
+![menu](screen/Screenshot%202024-09-15%2003-02-08.png)
+![main](screen/Screenshot%202024-09-15%2003-02-16.png)
+![menu](screen/Screenshot%202024-09-15%2003-02-30.png)
