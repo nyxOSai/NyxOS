@@ -13,7 +13,7 @@ NyxOS is a Linux operating system designed to be simple and accessible, especial
 
 With a focus on simplicity and accessibility, NyxOS provides a fluid and efficient user experience without sacrificing the power and flexibility of Linux. 
 
-Download the ISO by [clicking here](https://drive.google.com/file/d/1HhRdrg-yx8zIJzZ8BedD1mlufVi7Ohk_/view?usp=sharing)
+Download the ISO by [clicking here](https://drive.google.com/file/d/1oHh6Zxs8yeDpf_Uja4D0AOigGZOudfLT/view?usp=sharing)
 
 [MD5 ISO](https://github.com/nyxOSai/NyxOS/blob/main/nyxos_0.0.1-0.0.1-2024.09.14.md5)
 
